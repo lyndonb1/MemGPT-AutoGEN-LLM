@@ -17,7 +17,7 @@ import openai
 config_list = [
     {
         "api_type": "open_ai",
-        "api_base": "https://ekisktiz8hegao-5001.proxy.runpod.net/v1",
+        "api_base": "https://odpvmkrmqxjxhn-7860.proxy.runpod.net/",
         "api_key": "NULL",
     },
 ]
